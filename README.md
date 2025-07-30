@@ -1,0 +1,1 @@
+# App de Gerenciador de tarefas desenvolvido com React e Tailwind
